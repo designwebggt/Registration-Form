@@ -1,0 +1,48 @@
+*{
+    margin: 0 auto;
+}
+#regForm{
+    display: flex;
+    width: 25%;
+    height:auto;
+    border: 1px solid rgb(233, 142, 6);
+    padding: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: orange;
+    font-family: sans-serif;
+    border-radius: 5px;
+    
+   
+}
+
+.input{
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    width: 92%;
+    
+
+}
+
+.dropDown{
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    width: 98%;
+
+}
+.btn{
+    background-color: rgb(7, 177, 36);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid green;
+
+}
+
+.btn:hover{
+    background-color: orange;
+}
